@@ -1,0 +1,26 @@
+h1{
+  color: blue;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Courier New";
+  font-style: italic;
+}
+
+h2{
+  color: red;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  font-style: "Times New Roman";
+}
+
+p{
+  margin-top: 50px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
